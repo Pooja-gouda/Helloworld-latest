@@ -6,13 +6,13 @@
 <title> Welcome  to devops   </title>
 <style>
   body {
-    background-color: white;
+    background-color: peach;
   }
 </style>
 </head>
 <body>
-<h1>Welcome  to devops tutorial 2026 </h1>
-<p>Welcome  to devops tutorial 2026 </p>
+<h1>Welcome  to devops maven and tomcat class 2026 </h1>
+<p>MY name is Pooja Inamati working in infosys </p>
 </body>
 </html>
 
