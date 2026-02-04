@@ -11,7 +11,7 @@
 </style>
 </head>
 <body>
-<h1>Welcome  to devops maven and tomcat class 2026/2027 </h1>
+<h1>WELCOME TO DEVOPS CLASSES 2026 </h1>
 <h2>Testing page today </h2>
 <h3> doing devops work </h3>
 <h4> doing devops work with jenkins </h4>
